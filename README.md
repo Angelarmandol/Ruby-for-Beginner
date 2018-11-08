@@ -54,3 +54,4 @@ https://github.com/avsingh999/Ruby-for-Beginner/blob/master/Functions-in-Ruby
 
 https://github.com/avsingh999/Ruby-for-Beginner/blob/master/classes_in_ruby.md
 
+http://rubyonrails.org.es/instala.html
